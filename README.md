@@ -21,7 +21,8 @@
    ![image](https://github.com/flaviamihaela/optimisation_tasks/assets/55638247/b8c4a855-0f05-49e3-8d90-db0abfb7be36)
 
 
-   The figure of the constraint region overlaid with the location of the solutions to (*µ) is below:
+   Vectors f, a1, a2 and b are loaded from lin_prog149.mat via load_data_lin_prog.m.
+   Given these values, the figure of the constraint region overlaid with the location of the solutions to (*µ) is below:
    
    ![image](https://github.com/flaviamihaela/optimisation_tasks/assets/55638247/db430498-e239-40b7-bbf1-8fcce4784746)
    
