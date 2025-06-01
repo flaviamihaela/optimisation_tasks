@@ -25,7 +25,7 @@ This project showcases two classic optimisation algorithms - an interior point s
 
 2. Navigate to the project directory and open in MATLAB.
 
-3. Run scripts
+3. Run scripts:
 
 Run the Interior Point Program
 ```bash
